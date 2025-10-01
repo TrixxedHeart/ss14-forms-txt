@@ -1,0 +1,223 @@
+profile:
+  preferenceUnavailable: SpawnAsOverflow
+  spawnPriority: None
+  appearance:
+    markings:
+    - markingId: TattooEyeshadowUpper
+      visible: True
+      markingColor:
+      - '#FFEFCCFF'
+    - markingId: ScarChest
+      visible: True
+      markingColor:
+      - '#824D28FF'
+    - markingId: ScarFace1
+      visible: True
+      markingColor:
+      - '#824D28FF'
+    - markingId: LongEarsSmall
+      visible: True
+      markingColor:
+      - '#824D28FF'
+    - markingId: UndergarmentBottomBriefs
+      visible: True
+      markingColor:
+      - '#FF6F7FFF'
+    skinColor: '#824D28FF'
+    eyeColor: '#CB8920FF'
+    facialHairColor: '#D1FF87FF'
+    facialHair: FacialHairShaved
+    hairColor: '#C0C0C0FF'
+    hair: HumanHairVolaju
+  gender: Female
+  sex: Female
+  age: 82
+  species: Human
+  flavorText: ""
+  name: Leylana Hawkthorn
+  _loadouts:
+    JobHeadOfPersonnel:
+      selectedLoadouts:
+        GroupSpeciesBreathTool: []
+        Trinkets:
+        - prototype: Cane
+        Survival:
+        - prototype: EmergencyOxygen
+        Glasses:
+        - prototype: GlassesJamjar
+        HoPOuterClothing: []
+        HoPBackpack:
+        - prototype: CommonSatchel
+        HoPJumpsuit:
+        - prototype: HoPJumpsuit
+        HoPNeck:
+        - prototype: HoPMantle
+        HoPHead:
+        - prototype: HoPHead
+        GroupTankHarness: []
+      role: JobHeadOfPersonnel
+    JobWarden:
+      selectedLoadouts:
+        GroupSpeciesBreathToolSecurity: []
+        SecurityStar: []
+        Trinkets:
+        - prototype: Cane
+        SurvivalSecurity:
+        - prototype: EmergencyOxygenSecurity
+        SecurityShoes:
+        - prototype: JackBoots
+        WardenOuterClothing:
+        - prototype: WardenArmoredWinterCoat
+        SecurityBelt:
+        - prototype: SecurityWebbing
+        SecurityBackpack:
+        - prototype: SecuritySatchel
+        WardenJumpsuit:
+        - prototype: WardenJumpsuit
+        WardenHead:
+        - prototype: WardenBeret
+      role: JobWarden
+    JobMime:
+      selectedLoadouts:
+        Trinkets:
+        - prototype: OffsetCaneMime
+        SurvivalMime:
+        - prototype: EmergencyOxygenMime
+        Glasses:
+        - prototype: GlassesJamjar
+        MimeBelt:
+        - prototype: MimeSuspendersRed
+        MimeOuterClothing: []
+        MimeBackpack:
+        - prototype: MimeSatchel
+        MimeJumpsuit:
+        - prototype: MimeJumpsuit
+        MimeMask:
+        - prototype: MimeMask
+        MimeHead:
+        - prototype: MimeFrenchBeret
+        GroupTankHarness: []
+      role: JobMime
+    JobResearchDirector:
+      selectedLoadouts:
+        GroupSpeciesBreathTool: []
+        Trinkets: []
+        Survival:
+        - prototype: EmergencyOxygen
+        Glasses: []
+        ResearchDirectorShoes:
+        - prototype: BrownShoes
+        ScientistGloves: []
+        ResearchDirectorOuterClothing: []
+        ScientistBackpack:
+        - prototype: ScientistSatchel
+        ResearchDirectorJumpsuit:
+        - prototype: ResearchDirectorJumpsuit
+        ResearchDirectorNeck:
+        - prototype: ResearchDirectorCloak
+        ResearchDirectorHead:
+        - prototype: ResearchDirectorBeret
+        GroupTankHarness: []
+      role: JobResearchDirector
+    JobMedicalDoctor:
+      selectedLoadouts:
+        GroupSpeciesBreathToolMedical: []
+        Trinkets:
+        - prototype: Cane
+        SurvivalMedical:
+        - prototype: EmergencyOxygenMedical
+        MedicalEyewear:
+        - prototype: MedicalEyePatchHud
+        MedicalDoctorPDA:
+        - prototype: MedicalDoctorPDA
+        MedicalShoes:
+        - prototype: WhiteShoes
+        MedicalDoctorOuterClothing:
+        - prototype: RegularLabCoat
+        MedicalBackpack:
+        - prototype: MedicalDoctorSatchel
+        MedicalGloves:
+        - prototype: NitrileGloves
+        MedicalDoctorJumpsuit:
+        - prototype: MedicalGreenScrubs
+        MedicalMask: []
+        MedicalDoctorHead: []
+        GroupTankHarness: []
+      role: JobMedicalDoctor
+    JobQuartermaster:
+      selectedLoadouts:
+        GroupSpeciesBreathTool: []
+        Trinkets:
+        - prototype: OffsetCaneWood
+        Survival:
+        - prototype: EmergencyOxygen
+        Glasses: []
+        QuartermasterShoes:
+        - prototype: BrownShoes
+        QuartermasterOuterClothing: []
+        CargoTechnicianBackpack:
+        - prototype: CargoTechnicianSatchel
+        QuartermasterJumpsuit:
+        - prototype: QuartermasterTurtleneck
+        QuartermasterNeck:
+        - prototype: QuartermasterCloak
+        QuartermasterHead:
+        - prototype: QuartermasterBeret
+        GroupTankHarness: []
+      role: JobQuartermaster
+    JobHeadOfSecurity:
+      selectedLoadouts:
+        GroupSpeciesBreathToolSecurity: []
+        SecurityStar: []
+        Trinkets:
+        - prototype: OffsetCaneWood
+        SurvivalSecurity:
+        - prototype: EmergencyOxygenSecurity
+        SecurityShoes:
+        - prototype: JackBoots
+        HeadofSecurityOuterClothing:
+        - prototype: HeadofSecurityCoat
+        SecurityBelt:
+        - prototype: SecurityBelt
+        SecurityBackpack:
+        - prototype: SecuritySatchel
+        HeadofSecurityJumpsuit:
+        - prototype: HeadofSecurityFormalSuit
+        HeadofSecurityNeck:
+        - prototype: HeadofSecurityCloak
+        HeadofSecurityHead:
+        - prototype: HeadofSecurityBeret
+      role: JobHeadOfSecurity
+    JobCaptain:
+      selectedLoadouts:
+        GroupSpeciesBreathTool: []
+        Trinkets:
+        - prototype: Cane
+        - prototype: CigPackGreen
+        - prototype: Lighter
+        Survival:
+        - prototype: EmergencyOxygen
+        CaptainOuterClothing:
+        - prototype: CaptainOuterClothing
+        CaptainBackpack:
+        - prototype: CaptainSatchel
+        CaptainJumpsuit:
+        - prototype: CaptainFormalSuit
+        CaptainNeck:
+        - prototype: CaptainCloakFormal
+        CaptainHead:
+        - prototype: CaptainCap
+      role: JobCaptain
+  _traitPreferences:
+  - ImpairedMobility
+  - PoorVision
+  - Snoring
+  _antagPreferences: []
+  _jobPriorities:
+    Captain: High
+    Warden: Medium
+    HeadOfPersonnel: Low
+    MedicalDoctor: Medium
+version: 1
+forkId: wizards-testing
+...

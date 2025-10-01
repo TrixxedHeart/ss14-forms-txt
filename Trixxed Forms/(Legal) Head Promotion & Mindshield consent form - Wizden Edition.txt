@@ -1,0 +1,35 @@
+# Head of Staff Promotion & Mindshield Consent Form
+                            [color=#1b67a5]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+          [head=2][bold]PROMOTION ACCEPTANCE & MINDSHIELD
+    IMPLANT CONSENT AND WAIVER OF LIABILITY[/bold][/head]
+──────────────────────────────────────────
+
+I, [color=#1b67a5]NAME[/color], herein referred to as the [bold]"Candidate,"[/bold] in consideration for promotion to a Head of Staff position ([bold]"Command Role"[/bold]) and continued at-will employment with Nanotrasen, its subsidiaries, and affiliates (collectively, [bold]"The Corporation"[/bold]), do hereby voluntarily execute this Consent and Waiver.
+
+[head=3]ARTICLE I: ACKNOWLEDGEMENT OF COMMAND POLICY & MIND SHIELD NECESSITY[/head]
+The Candidate acknowledges receipt and understanding of the [bold]Nanotrasen Command Policy Handbook[/bold]. The Candidate understands that the [bold]MindShield Implant[/bold] is a mandatory condition of employment for all Command Roles. The primary purpose of the implant is to protect command personnel from external psychic influence, telepathic interrogation, subversion, and memetic hazards, thereby ensuring the stable and lawful operation of the station.
+
+[head=3]ARTICLE II: ASSUMPTION OF RISK & WAIVER OF LIABILITY[/head]
+The Candidate acknowledges being informed of the potential risks associated with the Mindshield implantation procedure. While the procedure is classified as [italic]"Minimally Invasive"[/italic] by Nanotrasen Medical Division, understood risks include, but are not limited to: cephalalgia (headache), transient nausea, and in <0.01% of cases, aversion to snakes. The Candidate voluntarily assumes all known and unknown risks associated with the procedure and hereby releases, indemnifies, and holds harmless Nanotrasen, its officers, and employees from any and all liability, claims, and actions arising therefrom.
+
+[head=3]ARTICLE III: ACKNOWLEDGEMENT OF CONSEQUENCES[/head]
+The Candidate understands that any attempt to remove, circumvent, tamper with, or willfully damage the MindShield implant, or any violation of the conduct policies outlined herein, will result in [color=Red]immediate demotion, termination of employment, and potential legal action under station and corporate judicial codes.[/color]
+
+──────────────────────────────────────────
+
+[center][italic]By signing below, the Candidate certifies having read this document in its entirety, understands its contents, and provides informed consent voluntarily, free from any duress or coercion.[/italic]
+[bold]SIGNATURE OF CANDIDATE:[/bold][/center] REPLACE THIS LINE WITH CANDIDATE SIGNATURE
+──────────────────────────────────────────
+                     [color=#1b487e][head=1][bold]AUTHORIZING
+                  COMMAND SECTION[/bold][/head][/color]
+
+[bold]AUTHORIZING COMMAND:[/bold] [color=#1b67a5]REPLACE THIS LINE WITH AUTHORIZATION SIGNATURE [/color]
+I hereby certify that the above-named Candidate has been briefed on all relevant policies and is approved for promotion and mandatory MindShielding.
+
+[center][mono]OFFICIAL STAMP REQUIRED BELOW THIS LINE[/mono][/center]
